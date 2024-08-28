@@ -1,12 +1,12 @@
 [submodule "Text2graph"]
 	path = Text2graph
-	url = git@github.com:BingSu12/MoMu.git
+	url = https://github.com/BingSu12/MoMu/tree/b30f7e6e8f63d902f0267cdbee232b8739cf0644
 [submodule "MoleculePrediction"]
 	path = MoleculePrediction
-	url = git@github.com:ddz16/MoleculePrediction.git
+	url = https://github.com/ddz16/MoleculePrediction/tree/2dd496a71a6f05ae8322bab3fc3ffc44245891e9
 [submodule "GraphTextRetrieval"]
 	path = GraphTextRetrieval
-	url = git@github.com:yangzhao1230/GraphTextRetrieval.git
+	url = https://github.com/yangzhao1230/GraphTextRetrieval/tree/631e6b7e31a7e2ef96c3724a9b663c70cc9bb7e2
 [submodule "MoleculeCaption"]
 	path = MoleculeCaption
-	url = git@github.com:ddz16/MoleculeCaption.git
+	url = https://github.com/ddz16/MoleculeCaption/tree/26ad65182670181eb3929be7083427196f1489d3
